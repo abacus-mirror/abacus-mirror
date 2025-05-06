@@ -1,4 +1,4 @@
-<a href="http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion"><img src="/templates/hide  .webp" alt="image" style="max-width: 100%;"></a>
+<a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/files/output.webp" alt="image" style="max-width: 100%;"></a>
 
 # Abacus Mirror: Navigating the Darknet with Confidence
 
@@ -22,9 +22,9 @@ Navigating the **Abacus Market** requires knowing how to access the platform thr
    - Always prioritize using the official **Abacus Market mirror links** or a verified **Abacus Market onion link** to shield yourself from phishing attacks.
    - Double-check the URL for authenticity. Verify the source of the mirror before proceeding.
 
-**Official Mirror Link:** [http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion](http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion)
+**Official Mirror Link:** [http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion](http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion)
 
-[<img src="/templates/icon.webp" width="200">](http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion)
+[<img src="/files/tab.webp" width="200">](http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion)
 
 ### 2. **Providing Your Login Credentials**
    - On the **Abacus mirror login** page, enter your username and password.
@@ -72,5 +72,5 @@ Always prioritize security when navigating the darknet. Utilize validated **Abac
 
 **Disclaimer:** This content is for educational purposes only. We do not encourage or endorse illegal activities. Always comply with the laws in your jurisdiction.
 
-<a href="http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion"><img src="/templates/widget.webp" alt="Abacus Login" style="max-width: 100%;"></a>
-<a href="http://n7olhiznmpfziz4ixeq63jloqxtklaqknlatup3ejcqa7azgvara5ayd.onion"><img src="/templates/launchpad.webp" alt="Abacus Register" style="max-width: 100%;"></a>
+<a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/files/show.webp" alt="Abacus Login" style="max-width: 100%;"></a>
+<a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/files/task.webp" alt="Abacus Register" style="max-width: 100%;"></a>
